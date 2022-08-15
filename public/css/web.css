@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(240, 245, 248);
+    
+}
+.navbar-home {
+    border-radius: 0px;
+    background-color: rgb(15,77,94);
+    border: none; 
+    margin-bottom: 0px;
+}
+
+.navbar-home .navbar-nav > li > a {
+    color: #fff;
+}
+
+.navbar-home .navbar-brand {
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+.carousel-content {
+    height: 550px;
+    
+}
+
+.plan {
+    margin-top: 8rem;
+    margin-bottom: 4rem;
+}
+
+.end {
+    height: 16vh;
+    background-color: rgb(15,77,94);
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    
+}
+
